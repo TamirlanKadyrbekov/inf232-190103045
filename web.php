@@ -24,7 +24,7 @@ Route::get('/1', function () {
 Route::get('/post/{id}', function ($id) {
     return "Number is ". $id;
 });
-
+//login
 Route::get('login/{name}/{pass?}', function ($name,$pass) {
     return "Username is ".$name." pass is ".$pass;
 })->where(['pass'=>'[a-zA-Z0-9]+']);
