@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <div style="text-align: center; font-size:100px;">Tamirlan Kadyrbekov</div>
+    <div style="text-align: center; font-size:100px;">Tamirlan Kadyrbekov</div> //Name
 </body>
 </html>
